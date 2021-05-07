@@ -1,4 +1,4 @@
-### Voting_app
+# Voting App
 
 ... from the first chapter of [Fullstack React](https://www.newline.co/fullstack-react/).
 
